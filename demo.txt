@@ -2,3 +2,4 @@ Hello welcome to allllllllllllllllllllllllll
 
 Git Commands :
 git init : Create a empty new local repository
+git add . : adds all the files in the current folder to the repository
